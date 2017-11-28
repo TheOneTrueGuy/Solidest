@@ -1,0 +1,11 @@
+The design philosophy behind Solidest is embodied in the name itself. 
+
+Since these Dapps, these contracts, are not only financialy contingent
+but down right mission critical it is necessary that they be built on
+the solidest groundwork.
+
+Test Driven Development is no 100% guarantee of flawless software but it 
+currently offers one of the best methods of catching mistakes early while 
+rapidly leveraging iteratively developing functionality from libraries, standard
+algorithms and the individual software developer's suite of skills.
+
