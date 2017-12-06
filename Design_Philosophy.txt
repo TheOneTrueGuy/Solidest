@@ -6,6 +6,7 @@ the solidest groundwork.
 
 Test Driven Development is no 100% guarantee of flawless software but it 
 currently offers one of the best methods of catching mistakes early while 
-rapidly leveraging iteratively developing functionality from libraries, standard
+rapidly leveraging iteratively developed functionality from libraries, standard
 algorithms and the individual software developer's suite of skills.
 
+Current fields under consideration in the development of Solidest are the use of a domain specific language to facilitate behaviour driven design, IDE plugins (and which IDEs to plugin to), forking Jest to exploit the javascript-like aspects of Solidity or the necessity to develop Solidest from the ground up.
