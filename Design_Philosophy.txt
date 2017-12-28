@@ -1,3 +1,6 @@
+Gonna SNAFU this project before it is even born. 
+Truffle already has a testing framework so, you know, D.R.Y.
+
 The design philosophy behind Solidest is embodied in the name itself. 
 
 Since these Dapps, these contracts, are not only financialy contingent
